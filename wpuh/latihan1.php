@@ -1,3 +1,4 @@
+<!-- membuat web dengan PHP dan res-API -->
 <?php
  $data=file_get_contents('data/pizza.json');
  $menu=json_decode($data,true);
