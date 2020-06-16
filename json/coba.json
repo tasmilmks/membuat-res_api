@@ -1,0 +1,26 @@
+[{
+    "nama" :"Tasmil",
+    "umur" :37,
+    "nip":"19830422",
+    "lulus":true,
+    "hobby":[ "Sepakbola",
+             "coding"],
+    "pembimbing":{
+        "pembimbing":"tasmil",
+        "pembimbing1":"ahmad"
+    }
+
+},
+{
+    "nama" :"Tasmil",
+    "umur" :37,
+    "nip":"19830422",
+    "lulus":true,
+    "hobby":[ "Sepakbola",
+             "coding"],
+    "pembimbing":{
+        "pembimbing 1":"tasmil",
+        "pembimbing 2":"ahmad"
+    }
+
+}]
