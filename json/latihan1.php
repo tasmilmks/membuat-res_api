@@ -1,3 +1,4 @@
+//file JSON dengan PHP
 <?php
 // $mahasiswa= [
 // ["nama"=>"tasmil",
